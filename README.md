@@ -1,2 +1,2 @@
 # T.K.4
-legal-swwwkin.surge.sh (Preview)
+https://legal-swwwkin.surge.sh/ (Preview)
